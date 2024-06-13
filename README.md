@@ -98,8 +98,4 @@
 
 ---
 
-### 🐛 Moving Worm on My GitHub Grass :
-
-<p align="center">
-  <img src="https://yourgifurl.com/worm.gif" alt="moving worm" />
-</p>
+![snake gif](https://github.com/jh6416/jh6416/blob/output/github-contribution-grid-snake.svg)
