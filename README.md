@@ -95,3 +95,11 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="visitor badge"/>
 </p>
+
+---
+
+### 🐛 Moving Worm on My GitHub Grass :
+
+<p align="center">
+  <img src="https://yourgifurl.com/worm.gif" alt="moving worm" />
+</p>
